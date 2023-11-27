@@ -1,6 +1,7 @@
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
+  "stylelint.validate": ["css", "sass", "scss"],
   "workbench.colorCustomizations": {
     "titleBar.activeForeground": "#ffffff",
     "titleBar.activeBackground": "#00d1b2",
