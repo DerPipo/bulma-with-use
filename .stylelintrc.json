@@ -1,5 +1,7 @@
 {
+  "customSyntax": "postcss-scss",
   "extends": "stylelint-config-standard-scss",
+  "files": ["**/*.{css,sass,scss}"],
   "rules": {
     "at-rule-disallowed-list": ["import"]
   }
